@@ -1,0 +1,30 @@
+/*
+Custom Css
+*/
+@media screen and (max-width: 992px) {
+  a.navbar-brand {
+    display: contents;
+  }
+}
+/*INICIO NAVBAR*/
+nav.navbar {
+  background-color: rgba(29, 29, 31, 255);
+}
+
+img.zyggo-logo {
+  width: 50%;
+}
+/* NAVBAR*/
+div ul.nav li.nav-item a.nav-link {
+}
+/*INICIO ABOUT*/
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+section.bg-success {
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.692);
+}
+/*INICIO ENVIOS*/
+/*FIN ENVIOS*/
+/*FIN ABOUT*/
