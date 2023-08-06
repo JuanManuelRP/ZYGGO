@@ -15,8 +15,7 @@ img.zyggo-logo {
   width: 50%;
 }
 /* NAVBAR*/
-div ul.nav li.nav-item a.nav-link {
-}
+
 /*INICIO ABOUT*/
 .img-fluid {
   max-width: 100%;
@@ -28,3 +27,15 @@ section.bg-success {
 /*INICIO ENVIOS*/
 /*FIN ENVIOS*/
 /*FIN ABOUT*/
+
+/*INICIO SHOP*/
+p.prices-1 {
+  display: flex;
+  justify-content: space-evenly;
+}
+p.prices-1 s {
+  color: rgba(0, 0, 0, 0.473);
+}
+ul.list-unstyled li.description-products {
+  color: white;
+}
